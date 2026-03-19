@@ -1,7 +1,7 @@
 # MERN Todo App
 
 A simple full-stack todo app built with MongoDB, Express, React, and Node.js.
-first time pushing to github!
+first app to push on Github
 
 ## Tech Stack
 - Frontend: React (Vite), Axios
